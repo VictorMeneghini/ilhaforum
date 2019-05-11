@@ -58,6 +58,7 @@ coverage.xml
 *.log
 local_settings.py
 db.sqlite3
+.vscode
 
 # Flask stuff:
 instance/
@@ -121,7 +122,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-
-# vscode
-.vscode
